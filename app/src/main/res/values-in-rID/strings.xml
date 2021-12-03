@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recipes Catalogue</string>
+    <string name="txt_breakfast">Sarapan</string>
+    <string name="txt_vegetarian">Vegetarian</string>
+    <string name="txt_dessert">Pencuci Mulut</string>
+    <string name="txt_seafood">Seafood</string>
+    <string name="txt_cooked">Dimasak</string>
+    <string name="txt_calories">Kalori</string>
+    <string name="txt_carbo">Karbo</string>
+    <string name="txt_recipe">Resep</string>
+    <string name="txt_ingredients">Bahan-bahan:</string>
+    <string name="txt_directions">Petunjuk Pembuatan:</string>
+</resources>
